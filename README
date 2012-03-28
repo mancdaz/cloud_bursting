@@ -1,0 +1,4 @@
+this is a list of basic bash scripts that interact with the openstack api to 
+spawn or delete servers. They are intended as a proof of concept to show how 
+one might use the api to automatically provision servers in a cloud bursting
+type scenario.
